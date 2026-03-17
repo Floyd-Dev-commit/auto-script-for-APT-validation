@@ -1,3 +1,6 @@
+Time Stamp 2021-Spring
+Automatic Python Software Testing Script using pywinauto/py
+
 0.Make sure you have installed requirements.
 1.Extract all files in zip to the same directory.
 2.Modify the config.ini file.
