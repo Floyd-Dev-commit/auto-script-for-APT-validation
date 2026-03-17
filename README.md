@@ -1,6 +1,8 @@
 Time Stamp 2021-Spring
 
-Automatic Python Software Testing Script using pywinauto/pytest
+A simple Automatic Python Software Testing Script using pywinauto/pytest.
+
+#It's a self-made demo instead of a complete script, due to company's regulation, it's not proper to upload full script here.
 
 0.Make sure you have installed requirements.
 1.Extract all files in zip to the same directory.
